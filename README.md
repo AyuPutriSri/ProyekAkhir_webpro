@@ -1,7 +1,7 @@
 # asesmen-uts
 adalah repository yang di buat oleh I Gusti Ayu Putri Sri Wedari dengan Nim 220030156, mahasiswi ITB Stikom Bali program studi sistem informasi. repository ini dibuat untuk menunjang pemenuhan Uts mata kuliah Pemograman web semester ganjil 2023.
-# Nama Web TokyoTwist - Website Restoran Jepang
 
+## Nama Web TokyoTwist - Website Restoran Jepang
 ## Tema Website
 Website TokyoTwist didesain dengan tema yang menciptakan suasana modern dan inovatif sekaligus mempertahankan keaslian dan tradisi khas Tokyo. Desain tampilan dan antarmuka pengguna dirancang untuk memberikan pengalaman visual yang memikat dan informatif.
 
