@@ -21,4 +21,7 @@ Kami berharap pengguna merasakan:
 2. Buka file index.html untuk menjelajahi website atau gunakan server web sederhana untuk mengaksesnya.
 
 ## Screenshot halaman web TokyoTwist
+Ini adalah halaman utama pada web
+<img width="911" alt="Screenshot 2023-11-17 173801" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/01e01418-5089-4e1d-8986-9da587b7bd97">
+
 
