@@ -24,4 +24,8 @@ Kami berharap pengguna merasakan:
 Ini adalah halaman utama pada web
 <img width="911" alt="Screenshot 2023-11-17 173801" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/01e01418-5089-4e1d-8986-9da587b7bd97">
 
+Ini adalah halaman About dari web
+screenshot.web/screenshot web/Screenshot 2023-11-17 173653.png
+
+
 
