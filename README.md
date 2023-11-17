@@ -22,11 +22,16 @@ Kami berharap pengguna merasakan:
 2. Buka file index.html untuk menjelajahi website atau gunakan server web sederhana untuk mengaksesnya.
 
 ## Screenshot halaman web TokyoTwist
-Ini adalah halaman utama pada web
-https://raw.githubusercontent.com/AyuPutriSri/asesmen-uts/d7016b9909ea255c2a197ca77cccfe12310cac3e/screenshot.web/screenshot%20web/Screenshot%202023-11-17%20173631.png
+- Ini adalah halaman utama pada web
+screenshot.web/screenshot web/Screenshot 2023-11-17 173631.png
 
-Ini adalah halaman About dari web
+- Ini adalah halaman About dari web
 screenshot.web/screenshot web/Screenshot 2023-11-17 173653.png
+
+- Ini adalah halaman Menu
+- Ini adalah halaman Contact
+
+
 
 
 
