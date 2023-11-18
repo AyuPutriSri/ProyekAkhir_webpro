@@ -23,7 +23,6 @@ Kami berharap pengguna merasakan:
 
 ## Screenshot halaman web TokyoTwist
 - Ini adalah halaman utama pada web
-screenshot.web/screenshot web/Screenshot 2023-11-17 173631.png
 
 - Ini adalah halaman About dari web
 screenshot.web/screenshot web/Screenshot 2023-11-17 173653.png
