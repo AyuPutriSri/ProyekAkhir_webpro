@@ -23,7 +23,7 @@ Kami berharap pengguna merasakan:
 
 ## Screenshot halaman web TokyoTwist
 - Ini adalah halaman utama pada web
-![Alt text](screenshot.web/screenshot web/Screenshot 2023-11-17 173631.png)
+<img alt="Screenshot 2023-11-17 173653.png" scr=
 
 - Ini adalah halaman About dari web
 screenshot.web/screenshot web/Screenshot 2023-11-17 173653.png
