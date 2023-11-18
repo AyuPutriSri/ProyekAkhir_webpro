@@ -24,17 +24,20 @@ Kami berharap pengguna merasakan:
 
 ## Screenshot halaman web TokyoTwist
 - Ini adalah halaman utama pada web
-- 
+<br>
 <img width="913" alt="Screenshot 2023-11-17 173631" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/f21eee02-b9f2-48d9-ab84-589f12477d69">
 
 - Ini adalah halaman About dari web
+<br>
 <img width="907" alt="Screenshot 2023-11-17 173653" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/2e33dfa8-a1c4-4ba1-becd-04d4401a4b54">
 7 173653.png
 
 - Ini adalah halaman Menu
+<br>
 <img width="911" alt="Screenshot 2023-11-17 173727" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/5d7f94d9-40b9-4c12-9972-bd3b0603b0dd">
 
 - Ini adalah halaman Contact
+<br>
 <img width="911" alt="Screenshot 2023-11-17 173801" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/23443ec3-5893-45e1-be92-96fcfd2e2ddc">
 
 
