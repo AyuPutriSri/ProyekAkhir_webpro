@@ -23,7 +23,7 @@ Kami berharap pengguna merasakan:
 
 ## Screenshot halaman web TokyoTwist
 - Ini adalah halaman utama pada web
-<img alt="Screenshot 2023-11-17 173653.png" scr=
+<img alt="Screenshot 2023-11-17 173653.png" scr="https://github.com/AyuPutriSri/asesmen-uts">
 
 - Ini adalah halaman About dari web
 screenshot.web/screenshot web/Screenshot 2023-11-17 173653.png
