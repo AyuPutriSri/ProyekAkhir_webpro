@@ -2,7 +2,6 @@
   --primary-color: bisque;
   --background: rgb(48, 45, 45);
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -129,7 +128,7 @@ body {
 
 .about,
 .menu,
-.contact {
+{
   padding: 9rem 7% 1.4rem;
 }
 .about h2,
