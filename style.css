@@ -204,33 +204,50 @@ body {
 .contact .raw .map {
   flex: 1 1 30rem;
   padding: 5rem 2rem;
-  width: 100%;
+  width: 80%;
   object-fit: cover;
 }
 .contact .raw form {
-  flex: 1 1 40rem;
-  padding: 5rem 2rem;
+  flex: 1 1 20rem;
+  padding: 2rem 1rem;
   text-align: center;
 }
 .contact .raw form .input-group {
   display: flex;
   align-items: center;
-  margin-top: 2rem;
+  margin-top: 1rem;
   background-color: rgb(94, 85, 85);
-  border: 1px solid #eee;
+  border: 2px solid #eee;
   padding-left: 2rem;
-  border-radius: 20px;
+  border-radius: 1px;
+  width: 80%;
 }
 
 .contact .raw form .input-group input {
-  width: 100%;
-  padding: 2rem;
+  width: 80%;
+  padding: 0.5rem;
   font-size: 1.7rem;
   background: none;
   color: #fff;
 }
+.contact .raw form .textarea {
+  background-color: rgb(94, 85, 85);
+  padding: 3rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.contact .raw form .textarea input {
+  width: 80%;
+  padding: 0.5rem;
+  font-size: 1.7rem;
+  background: none;
+  color: #fff;
+}
+
 .contact .raw form .btn {
-  margin-top: 3rem;
+  margin-top: 1rem;
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.5rem;
