@@ -37,9 +37,9 @@ Kami berharap pengguna merasakan:
 ## Menu Reservasi di web TokyoTwist
 Disini costumer bisa mengisi form reservasi, jika costumer ingin mereservasi 
 <img width="909" alt="Screenshot 2023-12-17 222957" src="https://github.com/AyuPutriSri/ProyekAkhir_webpro/assets/146809861/7f853554-1d24-49b4-a3c1-a9a13fffae3a">
-- Gambar untuk Class Diagram
+- Gambar untuk Class Diagram <br>
   ![Class Diagram](https://github.com/AyuPutriSri/ProyekAkhir_webpro/assets/146809861/efc39260-9f69-4161-8f72-f2fdafdf20de)
-- Gambar untuk ERD
+- Gambar untuk ERD <br>
   ![ERD](https://github.com/AyuPutriSri/ProyekAkhir_webpro/assets/146809861/6f9dbc98-78ed-4863-8808-4fc95b826c7a)
  
 
