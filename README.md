@@ -1,7 +1,7 @@
-# asesmen-uts
+# TokyoHouse
 adalah repository yang di buat oleh I Gusti Ayu Putri Sri Wedari dengan Nim 220030156, mahasiswi ITB Stikom Bali program studi sistem informasi. repository ini dibuat untuk menunjang pemenuhan Uts mata kuliah Pemograman web semester ganjil 2023.
 
-## Nama Web TokyoTwist - Website Restoran Jepang
+## Nama Web TokyoHouse - Website Restoran Jepang
 ## Tema Website
 Website TokyoTwist didesain dengan tema yang menciptakan suasana modern dan inovatif sekaligus mempertahankan keaslian dan tradisi khas Tokyo. Desain tampilan dan antarmuka pengguna dirancang untuk memberikan pengalaman visual yang memikat dan informatif.
 
@@ -17,7 +17,7 @@ Kami berharap pengguna merasakan:
 - Desain tampilan website kami dirancang untuk memberikan pengalaman visual yang memukau, memperlihatkan keindahan dan kelezatan setiap hidangan.
 
 ## Cara Menjalankan Website secara Lokal
-- https://github.com/AyuPutriSri/asesmen-uts/
+- https://github.com/AyuPutriSri/TokyoHouse/blob/main/README.md#asesmen-uts
 1. Clone repositori ini ke dalam direktori lokal Anda.
 2. Buka file index.html untuk menjelajahi website atau gunakan server web sederhana untuk mengaksesnya.
 
