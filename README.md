@@ -17,7 +17,7 @@ Kami berharap pengguna merasakan:
 - Desain tampilan website kami dirancang untuk memberikan pengalaman visual yang memukau, memperlihatkan keindahan dan kelezatan setiap hidangan.
 
 ## Cara Menjalankan Website secara Lokal
-- README.md
+- https://github.com/AyuPutriSri/TokyoHouse
 1. Clone repositori ini ke dalam direktori lokal Anda.
 2. Buka file index.html untuk menjelajahi website atau gunakan server web sederhana untuk mengaksesnya.
 
