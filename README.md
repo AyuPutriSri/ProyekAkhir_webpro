@@ -23,16 +23,20 @@ Kami berharap pengguna merasakan:
 
 ## Screenshot halaman web TokyoTwist
 - Ini adalah halaman utama pada web TokyoTwist
-<img width="906" alt="Screenshot 2023-12-17 223056" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/f232ae42-cc7a-41d8-baaf-bc2df4c27399">
+<img width="910" alt="Screenshot 2024-01-20 000227" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/34bfae6c-b20c-4052-b41b-45964df22788">
+
 
 - Ini adalah halaman About dari web TokyoTwist
-<img width="906" alt="Screenshot 2023-12-17 223115" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/0acbf652-ba3a-40d8-9ac2-4bc60e997320">
+<img width="913" alt="Screenshot 2024-01-20 000302" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/eaba45c4-2c32-4218-8b45-f02bb0f2b60a">
+
 
 - Ini adalah halaman Menu dari web TokyoTwist
-<img width="909" alt="Screenshot 2023-12-17 223136" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/0a8f5e5c-6cc7-46c7-baec-117eaa754d0b">
+<img width="910" alt="Screenshot 2024-01-20 000329" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/b88c1f8b-51f3-40e6-950c-a8f8dbe56733">
+
 
 - Ini adalah halaman Reservasi dari web TokyoTwist
-<img width="909" alt="Screenshot 2023-12-17 222957" src="https://github.com/AyuPutriSri/asesmen-uts/assets/146809861/f9f95f6d-c79c-459d-b44b-d3f9f50a68a9">
+<img width="911" alt="Screenshot 2024-01-20 000404" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/9907c740-2756-4e53-a268-6ed3508ae196">
+
 
 ## Menu Reservasi di web TokyoTwist
 Disini costumer bisa mengisi form reservasi, jika costumer ingin mereservasi 
