@@ -35,7 +35,7 @@ Kami berharap pengguna merasakan:
 
 
 - Ini adalah halaman Reservasi dari web TokyoHouse
-  <img width="912" alt="Screenshot 2024-01-20 211419" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/166bd5d2-79d9-40eb-88c5-7ed679dd1d96">
+<img width="912" alt="Screenshot 2024-01-20 211419" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/166bd5d2-79d9-40eb-88c5-7ed679dd1d96">
  
 
 
