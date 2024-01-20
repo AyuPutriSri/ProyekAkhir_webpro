@@ -35,13 +35,7 @@ Kami berharap pengguna merasakan:
 
 
 - Ini adalah halaman Reservasi dari web TokyoHouse
-<img width="911" alt="Screenshot 2024-01-20 000404" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/9907c740-2756-4e53-a268-6ed3508ae196">
-
-
-- Gambar untuk Class Diagram 
-  ![Class Diagram](https://github.com/AyuPutriSri/ProyekAkhir_webpro/assets/146809861/efc39260-9f69-4161-8f72-f2fdafdf20de)<br>
-- Gambar untuk ERD 
-  ![ERD](https://github.com/AyuPutriSri/ProyekAkhir_webpro/assets/146809861/6f9dbc98-78ed-4863-8808-4fc95b826c7a)<br>
+  <img width="912" alt="Screenshot 2024-01-20 211419" src="https://github.com/AyuPutriSri/TokyoHouse/assets/146809861/166bd5d2-79d9-40eb-88c5-7ed679dd1d96">
  
 
 
