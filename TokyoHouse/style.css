@@ -18,6 +18,7 @@ body {
   color: white;
 }
 
+/* Navbar */
 .navbar {
   background: var(--primary-color);
   padding: 0.5rem 8%;
@@ -32,23 +33,28 @@ body {
   right: 0;
   z-index: 9999;
 }
+
 .navbar .nav-logo h2 {
   color: rgb(231, 214, 192);
   font-size: 3rem;
   font-weight: 700;
 }
+
 .navbar .navbar-nav {
   margin-left: auto;
 }
+
 .navbar .navbar-nav a {
   display: inline-block;
   font-size: 15px;
   margin: 0 20px;
   color: #fff;
 }
+
 .navbar .navbar-nav a:hover {
   color: var(--primary-color);
 }
+
 .navbar .navbar-nav a:after {
   margin-left: auto;
   content: "";
@@ -58,21 +64,26 @@ body {
   transform: scaleX(0);
   transition: 0.2s linear;
 }
+
 .navbar .navbar-nav a:hover:after {
   transform: scaleX(0.5);
 }
+
 .navbar .navbar-extra a {
   color: #fff;
   margin: 0 5px;
   font-size: 15px;
 }
+
 .navbar .navbar-extra a:hover {
   color: var(--primary-color);
 }
+
 #menu-icon {
   display: none;
 }
 
+/* Hero Section */
 .hero {
   min-height: 100vh;
   display: flex;
@@ -83,6 +94,7 @@ body {
   background-position: center;
   position: relative;
 }
+
 .hero::after {
   content: "";
   display: block;
@@ -96,16 +108,19 @@ body {
     rgba(40, 37, 37, 0) 80%
   );
 }
+
 .hero .content {
   max-width: 55rem;
   padding: 1.2rem 5%;
 }
+
 .hero .content h1 {
   font-size: 2rem;
   color: rgb(255, 236, 212);
   line-height: 1.2;
   text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
 }
+
 .hero .content p {
   font-size: 1.4rem;
   color: bisque;
@@ -114,6 +129,7 @@ body {
   font-weight: 350;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
+
 .hero .content .cta {
   margin-top: 2.5rem;
   display: inline-block;
