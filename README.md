@@ -1,5 +1,5 @@
 # TokyoHouse
-adalah repository yang di buat oleh I Gusti Ayu Putri Sri Wedari dengan Nim 220030156, mahasiswi ITB Stikom Bali program studi sistem informasi. repository ini dibuat untuk menunjang pemenuhan UAS mata kuliah Pemograman web semester ganjil 2023.
+adalah repository yang dibuat oleh I Gusti Ayu Putri Sri Wedari dengan Nim 220030156, mahasiswi ITB Stikom Bali program studi sistem informasi. repository ini dibuat untuk menunjang pemenuhan UAS mata kuliah Pemograman web semester ganjil 2023.
 
 ## Nama Web TokyoHouse - Website Restoran Jepang
 ## Tema Website
